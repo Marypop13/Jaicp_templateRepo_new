@@ -1,4 +1,4 @@
-!!com.justai.zb.bot.model.BotDescriptor
+com.justai.zb.bot.model.BotDescriptor
 alexa: null
 botFolder: null
 classifier:
